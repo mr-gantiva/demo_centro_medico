@@ -2,8 +2,12 @@
 
 Este proyecto es una aplicación web simple que permite gestionar y visualizar datos de pacientes en diversas especialidades médicas dentro del Centro Médico Ñuñoa. Utiliza HTML, CSS, y JavaScript para mostrar tablas, listas y estadísticas de las consultas.
 
+# Demo
+[Ver Demo](https://mr-gantiva.github.io/demo_centro_medico/)
+
 ## Tabla de Contenidos
 - [Centro Médico Ñuñoa - Gestión de Pacientes](#centro-médico-ñuñoa---gestión-de-pacientes)
+- [Demo](#demo)
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Características](#características)
   - [Estructura del Proyecto](#estructura-del-proyecto)
