@@ -7,13 +7,13 @@ Este proyecto es una aplicación web simple que permite gestionar y visualizar d
   - [Tabla de Contenidos](#tabla-de-contenidos)
   - [Características](#características)
   - [Estructura del Proyecto](#estructura-del-proyecto)
-    - [1-Clona el repositorio a tu máquina local:](#1-clona-el-repositorio-a-tu-máquina-local)
-    - [2-Navega al directorio del proyecto:](#2-navega-al-directorio-del-proyecto)
-    - [3-Abre el archivo index.html en tu navegador web preferido.:](#3-abre-el-archivo-indexhtml-en-tu-navegador-web-preferido)
-- [Uso](#uso)
-- [Funciones](#funciones)
-- [Tecnologías Utilizadas](#tecnologías-utilizadas)
-- [Autor](#autor)
+  - [1-Clona el repositorio a tu máquina local:](#1-clona-el-repositorio-a-tu-máquina-local)
+  - [2-Navega al directorio del proyecto:](#2-navega-al-directorio-del-proyecto)
+  - [3-Abre el archivo index.html en tu navegador web preferido.:](#3-abre-el-archivo-indexhtml-en-tu-navegador-web-preferido)
+  - [Uso](#uso)
+  - [Funciones](#funciones)
+  - [Tecnologías Utilizadas](#tecnologías-utilizadas)
+  - [Autor](#autor)
 
 ## Características
 
@@ -32,19 +32,19 @@ Este proyecto es una aplicación web simple que permite gestionar y visualizar d
 └── script.js       # Archivo JavaScript que contiene la lógica de la aplicación
 /
 ```
-### 1-Clona el repositorio a tu máquina local:
+## 1-Clona el repositorio a tu máquina local:
 
 ```bash
 Copiar código
 git clone https://github.com/tu-usuario/centro-medico-nunoa.git
 ```
-### 2-Navega al directorio del proyecto:
+## 2-Navega al directorio del proyecto:
 ```bash
 cd centro-medico-nunoa
 ```
-### 3-Abre el archivo index.html en tu navegador web preferido.:
+## 3-Abre el archivo index.html en tu navegador web preferido.:
 
-# Uso
+## Uso
 Al abrir la página, podrás ver:
 
 - Tablas con los datos de las consultas médicas de Radiología y Traumatología.
@@ -52,7 +52,7 @@ Al abrir la página, podrás ver:
 - Estadísticas del número de consultas, y las primeras y últimas atenciones.
 - Listado de pacientes atendidos en el centro, así como aquellos pertenecientes a sistemas de salud específicos como ISAPRE o FONASA.
   
-# Funciones
+## Funciones
 El archivo script.js contiene varias funciones clave:
 
 - 1- generarTabla(iterable, idTabla): Genera una tabla HTML a partir de los datos de un arreglo y lo muestra en el elemento con el ID proporcionado.
@@ -61,13 +61,13 @@ El archivo script.js contiene varias funciones clave:
 - 4- listarPacientes(iterablePaciente, idPacientes): Muestra el listado de todos los pacientes atendidos en el centro médico.
 - 5- consultarPrevision(arreglopPorFiltrar, consultaPrevision, idTabla): Filtra los pacientes según su previsión (ISAPRE o FONASA) y muestra el listado.
 
-# Tecnologías Utilizadas
+## Tecnologías Utilizadas
 
 - HTML5: Para la estructura de la página web.
 - CSS3: Para el estilo y diseño de la página, utilizando una hoja de estilos externa y la librería Water.css.
 - JavaScript: Para la lógica y manipulación de los datos de pacientes.
 
-# Autor
+## Autor
 Proyecto desarrollado por Ivan Vargas Gantiva.
 
 
