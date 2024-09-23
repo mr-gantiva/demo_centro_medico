@@ -261,5 +261,5 @@ mostrarLista(dental, "listaDental");
 
 listarPacientes(pacientesConcat, "listaPacientes");
 
-consultarPrevision(pacientesConcat, "ISAPRE", "listaIsapre");
-consultarPrevision(pacientesConcat, "FONASA", "listaFonasa");
+consultarPrevision(dental, "ISAPRE", "listaIsapre");
+consultarPrevision(traumaConcat, "FONASA", "listaFonasa");
