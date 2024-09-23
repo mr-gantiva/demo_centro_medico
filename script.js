@@ -253,9 +253,9 @@ generarTabla(radiologia, "tablaRadiologia");
 generarTabla(traumaConcat, "tablaTraumatologia");
 // generarTabla(dental, "tablaDental");
 
-mostrarEstadistica(radiologia, "estadisticasRadio", "radiologia");
-mostrarEstadistica(traumaConcat, "estadisticasTrauma", "traumatologia");
-mostrarEstadistica(dental, "estadisticasDental", "dental");
+// mostrarEstadistica(radiologia, "estadisticasRadio", "radiologia");
+// mostrarEstadistica(traumaConcat, "estadisticasTrauma", "traumatologia");
+// mostrarEstadistica(dental, "estadisticasDental", "dental");
 
 mostrarLista(dental, "listaDental");
 
